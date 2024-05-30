@@ -10,7 +10,7 @@ import {
 const AboutUs = () => {
   return (
     <>
-      <div className="max-w-md md:max-w-4xl mx-auto mt-10 p-6 bg-white rounded-lg shadow-lg shadow-gray-300">
+      <div className="max-w-md md:max-w-4xl mx-auto mt-24 p-6 bg-white rounded-lg shadow-lg shadow-gray-300">
         <h1 className="text-4xl font-bold mb-8 text-center text-green-800">
           About Us
         </h1>
